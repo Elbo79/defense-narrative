@@ -13,10 +13,10 @@ Static HTML/CSS/JS. Open `index.html` locally or deploy the repository root.
 
 ## Case inquiry form
 The contact form uses Netlify Forms with form name `case-inquiry`.
-After the first deployment, in Netlify configure a **Form submission notification** for `case-inquiry` and route it to the current intake recipient email. The public site does not display that email address.
+In Netlify, configure a **Form submission notification** for `case-inquiry` and route it to `Trials@DefenseNarrative.com`.
 
-## Phone
-Public phone: (650) 766-4902.
+## Email
+Public email: Trials@DefenseNarrative.com.
 
 ## Brand assets
 - `assets/defense-narrative-logo.svg` — dark-background logo
